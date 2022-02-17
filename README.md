@@ -1,13 +1,9 @@
-# BANGBANGCHIU
+# Game-Bang-Bang-Chiu
 
-Game BangBangChiu (bắn máy bay)
+Implementation team:
+- Nguyễn Trần Thiện Toàn
+- Trần Đông Ba
+- Kiều Hải Đăng
+- Lê Văn Đông
 
-link demo: https://youtu.be/FlZtq6xvIJY
-
-Đồ án môn Lập Trình Hướng Đối Tượng: (năm nhất - 2019)
-
-Thành viên nhóm:
-  + Nguyễn Trần Thiện Toàn (nhóm trưởng)
-  + Kiều Hải Đăng
-  + Lê Văn Đông
-  + Trần Đông Ba
+You can see the demo in this video: https://www.youtube.com/watch?v=l1HQ-UsDGwg
